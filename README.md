@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jane-ai98
 - 👀 I’m interested in data, technical writing
 - 🌱 I’m currently learning data analytics and programming for data science
-- 💞️ I’m looking to collaborate on any project that involves documentation
+- 💞️ I’m looking to collaborate on any project that involves data or documentation
 - 📫 How to reach me send me a message owansharry@gmail.com
 
 <!---
